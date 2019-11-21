@@ -16,6 +16,11 @@ Angles are in radian, distance are in meters.
 # x = 0.0110
 # y = 0.0099
 # z = 0.0099
+#
+# Test Point #2: (0.15, -0.1, 0.25, -45deg)
+# x = 0.0148
+# y = 0.0098
+# z = 0.0250
 
 def skewS(S):
 	w = S[0:3]
